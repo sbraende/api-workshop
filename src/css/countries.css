@@ -100,7 +100,7 @@ main {
   border-radius: var(--border-radius-medium);
 }
 .country-card {
-  display: none;
+  /* display: none; */
   width: 60%;
   height: 100%;
   padding: var(--spacing-medium);
